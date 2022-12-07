@@ -35,3 +35,52 @@ https://www.myrupee.net
 【腾讯文档】myrupee
 https://docs.qq.com/doc/DUFFoSkFLSFlqS1FZ
 
+
+
+Welcome to My Rupee, a professional loan service platform, which is dedicated to providing personalized professional online loan services for every Indian citizen. There is no need for mortgage and complicated written documents. You just need to download this program to apply for a loan with one click. As a convenient and fast loan platform, we can help you easily apply for appropriate products and solve financial problems.
+
+
+My Rupee does not directly participate in loan activities. It just provides a platform for registered NBFC or banks to borrow money from users. One of our main partners, NBFC – Kotagiri Commerce Pvt Ltd, is a systemically important NBFC among the group companies.
+
+Our users
+1.All Indian resident
+2.Between 20-60 years old
+3. Stable income
+4. With Bank Card
+
+Loan Details:
+Amount of the Loan is ₹10,000 to ₹100,000
+Maximum Annual Percentage Rate(APR) is 18% per annum.
+Processing Fee is up to 1% of Loan Amount (additional 18% GST)
+Loan term is 91 days to 365 days
+
+Loan example:
+If a user loan ₹10,000 for 120 days duration. 
+The applicable fees is=₹100. (₹10,000 * 1%) 
+GST is= ₹18. (₹100 * 18%) 
+Interest payable is= ₹592(₹10,000 * 18% / 365days * 120days)
+Total cost of the loan is= ₹710. (₹100+ ₹18 + ₹592) 
+Total repayment amount for 120 days is= ₹10710 (₹10,000 + ₹710)
+Monthly amount to repay will be =₹2,677 (₹10710/ 4)
+
+How to use
+
+1. Download and Install My Rupee
+2. Register with mobile phone number and accept basic permissions
+3. Submit KYC documents for instant credit check
+4. Sign an online loan agreement with the approved NBFC. Obtain immediate loan approval and transfer the funds to your bank account
+
+
+Why choose us
+✔ Diversified loan products
+
+✔ Reasonable interest rate and handling charge
+
+✔ Personal information security
+
+✔ Rapid approval
+
+
+Contact Us:
+Email: maijuuddin09@gmail.com
+Address: VGH5+HXR, Balaji Mandir Market, Dhaban, Sangaria, 335063 India
